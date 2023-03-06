@@ -1,6 +1,6 @@
 ### Hola, soy Florencia👋 :woman_technologist:
 <hr>
-<p> Estoy recibida :woman_student: de técnica en laboratorio :woman_scientist: y actualmente soy estudiante de programación en la UTN.:computer: </p>
+<p> Estoy recibida :woman_student: de técnica en laboratorio :woman_scientist: y actualmente soy estudiante de 2do año de la Tecnicatura Universitaria en Programación en la UTN.:computer: </p>
 
 
 <!--
