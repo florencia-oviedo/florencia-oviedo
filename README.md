@@ -7,6 +7,7 @@
   <li> CSS </li>
   <li> JavaScript </li>
   <li> Java </li>
+  <li> SQL </li>
  </ul>
 
 
