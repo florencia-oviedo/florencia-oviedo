@@ -1,6 +1,13 @@
 ### Hola, soy Florencia👋 :woman_technologist:
 <hr>
 <p> Actualmente soy estudiante de 2do año de la Tecnicatura Universitaria en Programación en la UTN.:computer: </p>
+<ul>Tengo conocimientos en: 
+  <p></p>
+  <li> HTML </li>
+  <li> CSS </li>
+  <li> JavaScript </li>
+  <li> Java </li>
+ </ul>
 
 
 <!--
