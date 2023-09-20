@@ -8,7 +8,11 @@
   <li> JavaScript </li>
   <li> Java </li>
   <li> SpringBoot </li>
+  <li> Python </li>
   <li> SQL </li>
+  <li> Selenium </li>
+  <li> QA Testing</li>
+  <li> SCRUM </li>
  </ul>
 
 
