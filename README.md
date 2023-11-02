@@ -10,7 +10,7 @@
   <li> SpringBoot </li>
   <li> Python </li>
   <li> SQL </li>
-  <li> Selenium </li>
+  <li> Selenium WebDriver </li>
   <li> QA Testing</li>
   <li> SCRUM </li>
  </ul>
