@@ -1,6 +1,6 @@
 ### Hola, soy Florencia👋 :woman_technologist:
 <hr>
-<p> Soy Técnica universitaria en Programación UTN.:computer: </p>
+<p> Soy Técnica universitaria en Programación UTN y QA Automation :computer: </p>
 <ul>Tengo conocimientos en: 
   <p></p>
   <li> HTML </li>
