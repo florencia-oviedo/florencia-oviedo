@@ -1,6 +1,6 @@
 ### Hola, soy Florencia👋 :woman_technologist:
 <hr>
-<p> Actualmente soy estudiante de 2do año de la Tecnicatura Universitaria en Programación en la UTN.:computer: </p>
+<p> Soy Técnica universitaria en Programación UTN.:computer: </p>
 <ul>Tengo conocimientos en: 
   <p></p>
   <li> HTML </li>
@@ -12,6 +12,10 @@
   <li> SQL </li>
   <li> Selenium WebDriver </li>
   <li> QA Testing</li>
+  <li> Selenium Webdriver</li>
+  <li> Cucumber</li>
+  <li> Gherkin</li>
+  <li> Jenkins</li>
   <li> SCRUM </li>
  </ul>
 
