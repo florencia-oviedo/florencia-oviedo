@@ -12,7 +12,6 @@
   <li> SQL </li>
   <li> Selenium WebDriver </li>
   <li> QA Testing</li>
-  <li> Selenium Webdriver</li>
   <li> Cucumber</li>
   <li> Gherkin</li>
   <li> Jenkins</li>
