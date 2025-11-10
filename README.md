@@ -16,6 +16,7 @@
   <li> Gherkin</li>
   <li> Jenkins</li>
   <li> SCRUM </li>
+  <li>AI</li>
  </ul>
 
 ## 🌐 Socials:
