@@ -1,23 +1,51 @@
-### Hola, soy Florencia👋 :woman_technologist:
-<hr>
-<p> Soy Técnica universitaria en Programación UTN y QA Automation :computer: </p>
-<ul>Tengo conocimientos en: 
-  <p></p>
-  <li> HTML </li>
-  <li> CSS </li>
-  <li> JavaScript </li>
-  <li> Java </li>
-  <li> SpringBoot </li>
-  <li> Python </li>
-  <li> SQL </li>
-  <li> Selenium WebDriver </li>
-  <li> QA Testing</li>
-  <li> Cucumber</li>
-  <li> Gherkin</li>
-  <li> Jenkins</li>
-  <li> SCRUM </li>
-  <li>AI</li>
- </ul>
+
+# Hi there! 👋 I'm Florencia Oviedo :woman_technologist:
+
+💜 AI Solutions Engineer passionate about Generative AI, AI Agents and Developer Productivity.
+
+Currently working on the design and development of AI solutions using GitHub Copilot, Python and FastAPI, helping teams adopt AI through custom agents, integrations and internal enablement.
+
+🎓 University Technician in Programming - UTN
+
+## 🚀 Tech Stack
+
+### Artificial Intelligence
+- GitHub Copilot
+- AI Agents
+- Prompt Engineering
+- Generative AI
+- Azure AI
+- Microsoft AI
+
+### Backend
+- Python
+- FastAPI
+- Java
+- Spring Boot
+- REST APIs
+- SQL
+
+### Dev Tools
+- Git
+- GitHub
+- GitHub Actions
+- Jenkins
+
+## 🏆 Certifications
+
+✔ GitHub Copilot Certified
+
+✔ Microsoft Azure AI-900 Certified
+
+✔ GitHub Foundations Certified
+
+## 🌱 Currently Learning
+
+- LangChain
+- LangGraph
+- AI Agent Architectures
+- MCP (Model Context Protocol)
+- AI Governance
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/florencia-oviedo/) 
